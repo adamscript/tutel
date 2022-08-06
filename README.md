@@ -2,7 +2,7 @@
 
 Show random pictures of turtles
 
-Live demo : https://awwwan.github.io/tutel/
+Live demo : https://adamscript.github.io/tutel/
 
 sound from https://www.youtube.com/watch?v=8Gr3U19a3Gk
 
